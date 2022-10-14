@@ -1,6 +1,6 @@
 # All possible data source types
 
-![img.png](img.png)
+![img.png](docs/img.png)
 
 📊🧐 Listing and ranking all existing datasource types.
 
